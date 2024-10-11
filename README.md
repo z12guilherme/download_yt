@@ -1,4 +1,3 @@
-Aqui está o arquivo `README.md` formatado para o seu projeto de scrapper de vídeos usando `yt-dlp`:
 
 ---
 
